@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Sakraj",
+        "email": "kacpersakrajecki@o2.pl"
+    },
+    {
+        "id": 2,
+        "name": "Giant",
+        "email": "gianttoon@o2.pl"
+    },
+    {
+        "id": 3,
+        "name": "Gibi",
+        "email": "gibi@o2.pl"
+    },
+    {
+        "id": 4,
+        "name": "Mikens",
+        "email": "mikens@o2.pl"
+    }
+]
